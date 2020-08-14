@@ -6,6 +6,6 @@ This is the fourth sample solution for CodeBerry’s Website Creation Practice m
 
 You can look at the finished website here:
 
-https://codeberryschool.github.io/sitebuilder-practice-chat-hu/
+https://codeberryschool.github.io/sitebuilder-practice-chat-en/
 
 ![Chat Showcase](assets/sitebuilder-practice-showcase-chat.png?raw=true "Chat Showcase")
